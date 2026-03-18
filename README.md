@@ -58,18 +58,20 @@ This is for educational and authorized testing only. Never use on networks you d
   
 - The client laptop will immediately lose connection to the ESP32 SoftAP.
 
-# Aircrack-ng WiFi Deauthentication Attack Demonstration on YouTube
-> You can watch the ESP32 webpage update in real time as the device disconnects from the network, and the LED light won't flash anymore after clicking the button. This link will take you to "[Simple Electronics Tutorials](https://www.youtube.com/channel/UCqedVhdr9MzmSPqrdjZsI6A)" Youtube channel to view the demonstration of the project
+# ⏯️Aircrack-ng WiFi Deauthentication Attack Demonstration on YouTube
+> You can watch the ESP32's webpage update in real time as the device disconnects from the network, and the LED light won't flash anymore after clicking the button. This link will take you to "[Simple Electronics Tutorials](https://www.youtube.com/channel/UCqedVhdr9MzmSPqrdjZsI6A)" Youtube channel to view the demonstration of the project
 
 - Click the link below to see the Wifi Deauthentication in action!
-  - Aircrack-ng WiFi Deauthentication Attack Demonstration
+  - 👉 [Aircrack-ng WiFi Deauthentication Attack Demonstration](https://youtube.com/shorts/_Xo1OZzOiws?si=1SncREussisWWUuR)
 
 
-# References
+# 📚References
+> [Simple Electronics Tutorials](https://www.youtube.com/@simpleelectronicstutorials/shorts) Youtube Channel
 
-Original ESP32 project: https://github.com/boydjawun/arduino-esp32-softAP-monitor
-Aircrack-ng official docs: https://www.aircrack-ng.org/
+> Original ESP32 project: https://github.com/boydjawun/arduino-esp32-softAP-monitor
 
+> Aircrack-ng official docs: https://www.aircrack-ng.org/
 
-⭐⭐⭐⭐⭐-----> Star the repo if it helps you! <-----⭐⭐⭐⭐⭐
+---
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐-----> Star the repo if it helps you! <-----⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
