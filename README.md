@@ -73,5 +73,5 @@ This is for educational and authorized testing only. Never use on networks you d
 > Aircrack-ng official docs: https://www.aircrack-ng.org/
 
 ---
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐-----> Star the repo if it helps you! <-----⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐-----> Star the repo if it helps you! <-----⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
