@@ -72,6 +72,16 @@ This is for educational and authorized testing only. Never use on networks you d
 
 > Aircrack-ng official docs: https://www.aircrack-ng.org/
 
+# ⚠️ Disclaimer
+
+**For educational and research purposes only.**
+
+Do NOT use any code or technique in this repository against systems you do not own or have explicit written permission to test.
+
+Unauthorized use is illegal and may result in criminal charges.
+
+The author(s) are not liable for any misuse or damage caused by this project.
+
 ---
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐-----> Star the repo if it helps you! <-----⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
